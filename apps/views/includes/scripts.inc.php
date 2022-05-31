@@ -1,0 +1,1 @@
+<script src="<?php STATIC_URL ?>/js/main.js"></script>
