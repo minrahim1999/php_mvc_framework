@@ -1,1 +1,1 @@
-<script src="<?php STATIC_URL ?>/js/main.js"></script>
+<script src="<?php echo STATIC_URL ?>/js/main.js"></script>
